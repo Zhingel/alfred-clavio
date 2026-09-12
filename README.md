@@ -21,3 +21,5 @@ Everything is self-contained: one bash script filter, no dependencies, nothing t
 ## About Clavio
 
 Hold a key or say "Hey Clavio," talk in any app, and finished text — cleaned up, punctuated, in the right tone — types itself where your cursor is. Per-app styles, optional auto-send (great for dictating prompts to AI coding agents), 28 dictation languages, on-device voiceprint.
+
+AI disclosure: This workflow and its documentation were created and revised with assistance from AI tools (OpenAI Codex).
