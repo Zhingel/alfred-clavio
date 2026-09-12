@@ -1,6 +1,8 @@
 # Clavio for Alfred
 
-Companion workflow for [Clavio](https://clavioapp.com) — AI hands-free dictation that adapts to every app (macOS 14+, Apple Silicon).
+Companion workflow for [Clavio](https://clavioapp.com) — hands-free dictation for Mac with per-app settings (macOS 14.2+, Apple Silicon).
+
+The workflow is free. Running workflows requires an existing [Alfred Powerpack](https://www.alfredapp.com/help/workflows/) license. Clavio has separate Free and Pro plans; dictation transcription and text polishing require internet access.
 
 ## Install
 
